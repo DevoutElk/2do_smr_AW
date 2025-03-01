@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 3.6</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script> function registro(){
+    var name = document.getElementById("name").value;
+    var surname = document.getElementById("surname").value;
+    alert ('Bienvenido ' + name + ' ' + surname)
+} </script>
+<body>
+    <h1>Práctica bloque 3</h1>
+
+    Introduce nombre <input id="name">
+    Introduce apellido1 <input id="surname" onchange="registro()">
+
+</body>
+</html>
+

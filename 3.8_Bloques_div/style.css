@@ -1,0 +1,59 @@
+/* Titulo */
+h1.header{
+
+    background-color: antiquewhite;
+    text-align: center
+}
+
+/* Nav */
+
+div.links{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: xx-small;
+    margin-bottom: 10px;
+}
+
+/* Pre-content */
+div.introduction{
+    background-color: orange;
+    font-size: small;
+}
+
+/* Content */
+
+div.container{
+
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+div.caja{
+
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+
+/* Pre-footer */
+div.pre-footer{
+
+text-align:left;
+background-color: orange;
+font-size: small;
+
+}
+
+/* Footer */
+div.footer{
+    text-align: center;
+    background-color: blue;
+}
+
+span.footer{
+    background-color: yellow;
+}
+  

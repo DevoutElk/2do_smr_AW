@@ -1,0 +1,43 @@
+h1.titulo{
+
+    text-align: center;
+
+}
+
+
+div.pre-footer{
+
+    background-color: green;
+
+}
+
+
+
+p.footer{
+
+    background-color: lightblue;
+
+}
+
+main.main {
+    display: flex;
+    height: 200px; /* Ajusta la altura total de los divs de colores */
+}
+
+.blue, .red, .yellow {
+    display: inline-block;
+    width: 33.33%;
+    height: 100%; /* Altura relativa al contenedor main */
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}

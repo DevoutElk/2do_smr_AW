@@ -1,0 +1,95 @@
+body{
+
+    background-color: beige;
+
+}
+
+div.logo{
+
+    text-align: center;
+
+}
+
+nav.homenav{
+
+    background-color: aqua;
+    text-align: center;
+
+}
+
+
+
+
+div.contenedorprimero{
+
+    background-color: white;
+    height: 220px;
+
+
+}
+
+div.primero{
+
+    background-color: blue;
+    display: flex;
+    text-align: start;
+
+}
+
+blockquote.primero{
+
+    background-color: white;
+    color: blue;
+
+
+}
+
+div.segundocontenedor{
+
+background-color: aqua;
+height: 250px;
+
+}
+
+span.segundo{
+
+    color:red;
+    text-align: left;
+
+}
+
+img.imagen{
+
+float: right;
+
+
+}
+
+p.footer{
+
+    text-align: center;
+    background-color: beige;
+
+}
+
+
+ol.romano{
+
+    list-style-type: upper-roman;
+
+}
+
+ol.letras{
+
+    list-style: upper-alpha;
+
+}
+
+
+div.lista{
+
+    background-color: greenyellow;
+    height: 350px;
+    color: blue;
+
+}

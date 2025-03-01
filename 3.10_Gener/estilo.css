@@ -1,0 +1,47 @@
+h1.titulo{
+
+    text-align: center;
+
+}
+
+
+div.pre-footer{
+
+    background-color: green;
+
+}
+
+
+
+p.footer{
+
+    background-color: lightblue;
+
+}
+
+div.main{
+
+display: flex;
+
+}
+
+div.caja{
+
+background-color: red;
+display: inline-flex;
+width: 33%;
+height: 25%;
+
+}
+div.blue{
+    background-color: blue;
+    display: inline-flex;
+    width: 33%;
+    height: 25%;
+}
+div.yellow{
+    background-color: yellow;
+    display: inline-flex;
+    width: 33%;
+    height: 25%;
+}

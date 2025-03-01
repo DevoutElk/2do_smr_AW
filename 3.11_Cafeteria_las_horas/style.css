@@ -1,0 +1,97 @@
+body.fondo{
+
+    background-color: #F6E3CE;
+
+}
+
+#header{
+
+    text-align: center;
+
+}
+
+#title{
+
+
+    font-size: 20px;
+    color: #610B0B;
+    font-weight: bolder;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+#separator{
+
+    border-color: grey;
+
+}
+
+div.lacarta{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 250px;
+
+}
+
+div.elcafe{
+
+    text-align: center;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 250px;
+    position:relative;
+
+}
+
+div.contacto{
+
+    text-align: end;
+    height: 250px;
+    align-content: end;
+    margin-bottom: 20px;
+}
+
+a{
+
+    color: #AE3D37;
+    font-size:larger;
+
+}
+
+p.lacarta{
+
+    color: #A62D2D;
+
+}
+
+p.elcafe{
+
+    color: #B40404;
+
+}
+
+
+div.contacto2{
+
+
+
+    background-color: white;
+    border-radius: 5px;
+    width: 700px;
+
+}
+
+h3.contacto{
+
+    color: #610B0B;
+
+}
+
+body.prueba{
+
+    background-color: #F6E3CE;
+
+}
